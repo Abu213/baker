@@ -9,13 +9,13 @@ pkg install python2
 
 pkg install git
 
-git clone https://github.com/binyamin-binni/bxi.git
+git clone https://github.com/Abu213/baker.git
 
 # Usage
 
-cd bxi
+cd baker
 
-python2 bxi.py
+python2 baker.py
 
 
 # Note
